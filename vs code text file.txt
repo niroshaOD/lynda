@@ -1,2 +1,3 @@
 vs code text file
 second line vs code
+vscode third line
