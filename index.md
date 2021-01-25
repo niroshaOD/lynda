@@ -1,6 +1,6 @@
 ## What is DDEV Local?
 
-[ddev](https://github.com/drud/ddev) is an open source tool that makes it dead simple to get local PHP development environments up and running within minutes. It's powerful and flexible as a result of its per-project environment configurations, which can be extended, version controlled, and shared. In short, ddev aims to allow development teams to use Docker in their workflow without the complexities of bespoke configuration.
+[ddev](https://github.com/drud/ddev) is an  tool that makes it dead simple to get local PHP development environments up and running within minutes. It's powerful and flexible as a result of its per-project environment configurations, which can be extended, version controlled, and shared. In short, ddev aims to allow development teams to use Docker in their workflow without the complexities of bespoke configuration.
 
 
 
@@ -11,7 +11,7 @@
 - OS Support
   - macOS Sierra and higher (macOS 10.12 and higher; it should run anywhere Docker Desktop for Mac runs.
   - Linux: Most Linux distributions which can run Docker-ce are fine. This includes at least Ubuntu 16.04+, Debian Jessie+, Fedora 25+. Make sure to follow the docker-ce [post-install steps](https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user)
-  - Windows 10 Pro or Enterprise with [Docker Desktop for Windows](https://docs.docker.com/docker-for-windows/install/)
+  - Windows 11 Pro or Enterprise with [Docker Desktop for Windows](https://docs.docker.com/docker-for-windows/install/)
   - Windows 10 Home (or other Windows version) with [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
 
 
